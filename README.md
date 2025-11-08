@@ -72,15 +72,15 @@
 | 💉 **Medical Spa Performance Insights** | Built a dbt + Snowflake data model to analyze campaign ROI for a medical aesthetics firm. | dbt • Snowflake • Google Analytics |
 | 🌍 **Project Love In Action** | Supported data collection and visualization for nonprofit outreach in Ubakala, Nigeria. | Python • Google Sheets • Airtable |
 
-> 🔍 Explore more on [my repositories »](https://github.com/godswill-analytics?tab=repositories)
+> 🔍 Explore more on [my repositories »](https://github.com/lumanzeh-analytics?tab=repositories)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=godswill-analytics&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=godswill-analytics&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lumanzeh-analytics&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lumanzeh-analytics/&show_icons=true&theme=radical" height="150"/>
 </p>
 
 <p align="center">
